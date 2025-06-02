@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@headlessui/react": "^2.2.0",
+    "@headlessui/react": "^2.2.2",
     "@types/jsonwebtoken": "^9.0.7",
     "cloudinary": "^2.5.1",
     "graphql-request": "^7.1.2",
